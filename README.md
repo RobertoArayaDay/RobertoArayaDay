@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RobertoArayaDay a last year student of Computer Science at the Faculty of Sciences and Mathematics of Universidad de Chile.
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Statistics. Im also hoping to deepend my knowledge in analysis of Algorithms to better estimate the time and effectiveness of procedures.
+- 👋 Hi, I’m @RobertoArayaDay a Computer Science Engineer graduated from the Faculty of Sciences and Mathematics of Universidad de Chile.
+- 👀 I’m interested in Statistics, AI and Software in general.
 - 📫 How to reach me. You can email me to robertoarayaday@gmail.com or by telegram @robertAday
 
 <!---
